@@ -13,6 +13,5 @@ public static Random A = new Random();
 		int MAX = 200;
 		int RandomAttackPower = A.nextInt(MAX-MIN)+MIN;
 		return RandomAttackPower;
-
 }
 }

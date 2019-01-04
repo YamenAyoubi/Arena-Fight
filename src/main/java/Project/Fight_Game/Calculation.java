@@ -17,7 +17,7 @@ public class Calculation {
 		
        while (IsAlive) {
     	
-    	   
+
     	   		// Random Attack + result calculation // 
 		int Player1AttackPower=RandomFight.getRandomAttackPower();
 		int NewPower1=A.getPower()-Player1AttackPower;

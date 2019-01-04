@@ -11,8 +11,7 @@ public class Data {
 	private int Health=0;
 	private int round=1;
 	
-	
-	
+
 	public Data (int Power ,int Defance , String Name ,  int Health,int round) {
 		
 		this.Power=Power ; 

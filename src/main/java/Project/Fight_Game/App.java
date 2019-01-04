@@ -98,9 +98,7 @@ public class App
   	   	      answer=PlayMore.GetPlayAgainAnswer().toUpperCase();
   		      running = PlayMore.PlayAgain(answer); 
   		      Player1.setRound(1);
-  		      
-  		      
-  		      
+
     	}
     	
     }

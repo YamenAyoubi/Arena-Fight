@@ -19,6 +19,7 @@ public class Calculation {
     	
 
     	   		// Random Attack + result calculation // 
+    	System.out.println(A.getName()+" "+"Attack");
 		int Player1AttackPower=RandomFight.getRandomAttackPower();
 		int NewPower1=A.getPower()-Player1AttackPower;
         A.setPower(NewPower1);

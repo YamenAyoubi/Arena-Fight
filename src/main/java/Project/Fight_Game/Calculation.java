@@ -1,18 +1,11 @@
 package Project.Fight_Game;
 
-import java.util.Scanner;
-
 public class Calculation {
 
-	
-	
-	static Scanner in = new Scanner (System.in);
-	static boolean IsAlive=true;
-	static String answer;
-	
-	
 	public static void ResultCalculation(Data A,Data B) {
-	
+		
+		 boolean IsAlive=true;
+
 		IsAlive=true;
 		
        while (IsAlive) {
